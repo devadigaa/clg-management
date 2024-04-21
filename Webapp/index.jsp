@@ -80,7 +80,7 @@
                 }
         
                 .hero {
-                    background-image: url('./swami.png');
+                    background-image: url('./dept.png');
                     background-size: cover;
                     background-position: center;
                     padding: 100px;
@@ -106,11 +106,11 @@
         
         <body>
             <header>
-                <div class="logo">
-                    <img src="./logo1.png" alt="Logo">
+                <div class="logo"><!-- Addd the Logo here -->
+                    <img src="./karkala.png" alt="Logo">
                 </div>
                 <div class="header-content">
-                    <h1><b>INDIRA SHIVA RAO POLYTECHNIC, UDUPI</b></h1>
+                    <h1><b>GOVERNMENT POLYTECHNIC, KARKALA</b></h1>
                 </div>
             </header>
         
@@ -129,16 +129,17 @@
                 </section>
         
                 <section class="hello">
-                    <h2>Welcome to Indira Shiva Rao Polytechnic</h2>
-                    <p>Indira Shiva Rao Polytechnic is an institution run by Sri Krishna Shikshana Prathisthana Trust, Sri Krishnapura Mutt, Car Street, Udupi, under the able guidance of Sri Sri Vidyasagara Theertha Swamiji, who is the President of the Trust. The polytechnic started functioning in the year 1997 as the first and only Private Women's Polytechnic in the entire undivided Dakshina Kannada district. Due to popular demand from the parents for admission of boys, it was subsequently converted into a co-ed polytechnic in the year 1999.</p>
+                    <h2>Welcome to Government Polytechnic Karkala</h2>
+                    <p>Our Polytechnic is a government organization established in Karkala Taluk, Udupi district in 2008-09. Institute is providing quality technical education along with job oppurtunities to students in Industry, professional services and entrepreneur development activities. Institute is located in a sprawling campus of 7.35 acres, with good infrastructure building, well equipped Laboratory facilities along with well qualified, dedicated and experienced lecturers and staff providing quality technical education.</p>
                 </section>
         
                 <section class="hello">
                     <h2>AVAILABLE BRANCHES</h2>
-                    <a href="http://www.isrpolytechnic.com/ComputerScience.html">Computer Science & Engineering</a><br>
-                    <a href="http://www.isrpolytechnic.com/Electroinics_engineering.html">Electronics & Communication Engineering</a><br>
-                    <a href="http://www.isrpolytechnic.com/Mechanical_engg.html">Mechanical Engineering</a><br>
-                    <a href="http://www.isrpolytechnic.com/Apparel_design&fabrication_technology.html">Apparel Design & Fabrication Technology</a>
+                   <!--  here you can edit yours college -->
+                    <a href="https://gpt.karnataka.gov.in/gptkarkala/public/13/cs---vision-&-mission/en">Computer Science & Engineering</a><br>
+                    <a href="https://gpt.karnataka.gov.in/gptkarkala/public/14/ec---vision-&-mission-/en">Electronics & Communication Engineering</a><br>
+                    <a href="https://gpt.karnataka.gov.in/gptkarkala/public/15/me---vision-&-mission/en">Mechanical Engineering</a><br>
+                    <a href="https://gpt.karnataka.gov.in/gptkarkala/public/15/me---vision-&-mission/en">Apparel Design & Fabrication Technology</a>
                 </section>
             </main>
         
